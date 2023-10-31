@@ -1,4 +1,4 @@
-#영화 목록 웹 서비
+# 영화 목록 웹 서비
 
 * Loading 화면
 ![re1](https://github.com/helloJosh/react-for-beginners/assets/37134368/b170b589-a1fa-4d22-8992-86bfaf1abec4)
